@@ -23,6 +23,17 @@
 		</repository>
 	</repositories>
 
+    <distributionManagement>
+  	    <snapshotRepository>
+    	    <id>dmp-snapshots</id>
+    	    <url>http://nexus.int.scdmp.net/repository/dmp-snapshots</url>
+        </snapshotRepository>
+		<repository>
+    		<id>dmp-releases</id>
+    		<url>http://nexus.int.scdmp.net/repository/dmp-releases</url>
+    	</repository>
+    </distributionManagement>
+
 	<properties>
 		<hive.version>1.1.0-cdh5.7.2</hive.version>
 		<hadoop.version>2.6.0-cdh5.7.2</hadoop.version>

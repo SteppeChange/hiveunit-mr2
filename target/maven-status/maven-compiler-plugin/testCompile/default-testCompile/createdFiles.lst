@@ -1,0 +1,6 @@
+com/inmobi/hadoop/BasicWordCount$TokenizerMapper.class
+com/inmobi/hadoop/BasicWordCount.class
+com/inmobi/hive/test/HiveSuiteTest.class
+com/inmobi/hadoop/BasicMRTest.class
+com/inmobi/hadoop/BasicWordCount$IntSumReducer.class
+com/inmobi/hive/test/HiveScriptParseTest.class
