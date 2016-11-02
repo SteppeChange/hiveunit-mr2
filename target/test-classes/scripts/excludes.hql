@@ -1,4 +1,0 @@
--- 
-
-ADD JAR ${MY_LIB};
-SELECT COUNT(*) FROM table1;

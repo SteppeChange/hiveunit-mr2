@@ -1,8 +1,0 @@
-com/inmobi/hive/test/HiveTestSuite.class
-com/inmobi/hive/test/HiveTestCluster$1.class
-com/inmobi/hive/test/HiveTestCluster.class
-org/apache/hive/jdbc/miniHS2/MiniHS2$1.class
-org/apache/hive/jdbc/miniHS2/MiniHS2.class
-com/inmobi/hive/test/HiveScript.class
-org/apache/hive/jdbc/miniHS2/MiniHS2$Builder.class
-org/apache/hive/jdbc/miniHS2/AbstractHiveService.class
